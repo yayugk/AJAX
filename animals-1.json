@@ -3,8 +3,8 @@
     "name": "Meowsy",
     "species" : "cat",
     "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+      "likes": ["tuna", "catnip", "apple", "orange"],
+      "dislikes": ["ham", "zucchini", "chocolate"]
     }
   },
   {
@@ -12,7 +12,7 @@
     "species" : "dog",
     "foods": {
       "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+      "dislikes": ["tuna", "juice"]
     }
   },
   {
